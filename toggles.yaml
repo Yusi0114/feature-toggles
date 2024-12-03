@@ -1,0 +1,22 @@
+---
+feature1:
+    value: true
+    name: Have a button Toggler
+    description: This Toggler will add a button on the view
+    jira: FT-1
+    creation_date: 2024-12-03
+    max_lifetime: 3
+
+feature2:
+    value: true
+    name: Have a text Toggler
+    description: This Toggler will add a text on the view
+    jira: FT-1
+    creation_date: 2024-12-03
+
+feature3:
+    value: true
+    name: Change text Toggler
+    description: This Toggler will change the text
+    jira: FT-1
+    creation_date: 2024-12-03
